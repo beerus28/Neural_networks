@@ -499,4 +499,11 @@ if __name__=='__main__':
     main()
     
     
+    
+    
+# References:
+# - https://nextjournal.com/gkoehler/pytorch-mnist
+# - https://github.com/deepinsight/mxnet/blob/master/docs/tutorials/gluon/mnist.md
+
+
 
